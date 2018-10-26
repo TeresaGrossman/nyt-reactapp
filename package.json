@@ -1,7 +1,7 @@
 {
   "name": "mern",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
@@ -24,5 +24,13 @@
     "express": "^4.16.3",
     "mongoose": "^5.0.17",
     "if-env": "^1.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeresaGrossman/nyt-reactapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TeresaGrossman/nyt-reactapp/issues"
+  },
+  "homepage": "https://github.com/TeresaGrossman/nyt-reactapp#readme"
 }
