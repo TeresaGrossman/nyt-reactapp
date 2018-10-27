@@ -11,3 +11,11 @@ Bootstrap
 CSS
 
 Website
+https://teresagrossman.github.io/nyt-reactapp/
+https://pure-peak-33893.herokuapp.com/
+
+GitHub code link
+https://github.com/teresagrossman/nyt-reactapp
+
+Copyright
+Teresa Grossman 2018.  All rights reserved
